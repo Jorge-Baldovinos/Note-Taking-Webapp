@@ -4,15 +4,15 @@
 This website [website](https://note-taker-ikm1.onrender.com) serves as a note taker for busy individuals that need help managing and organizing their tasks.
 
 ## Usage
-![Website Screenshot](assets/images/Website_Screenshot.png) ![Website Screenshot](assets/Website Screenshot1.png) ![Website Screenshot](assets/Website Screenshot2.png) ![Website Screenshot](assets/Website Screenshot3.png) 
+![Website Screenshot](assets/images/Website-Screenshot.png) ![Website Screenshot](assets/images/Website-Screenshot-1.png) ![Website Screenshot](assets/images/Website-Screenshot-2.png) ![Website Screenshot](assets/images/Website-Screenshot-3.png)
 The user is initially greeted with a searchbar requesting the input of a city.
-![Website Screenshot](assets/images/website-screenshot.png)
+
 
 After clicking on search, the page will render icons and data that shows the current forecast, as well as the forecast for the next 5 days.
-![Website Screenshot](assets/images/website-screenshot2.png)
+
 
 Underneath the search bar, the user will find a list of recent searched cities that the user will be able to click on see the forecast.
-![Website Screenshot](assets/images/website-screenshot3.png)
+
 
 ## Credits
 none
