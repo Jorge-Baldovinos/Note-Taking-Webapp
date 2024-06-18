@@ -17,17 +17,14 @@ Once the user has inserted text in the appropriate fields, they will see two new
 After clicking on save not, the user will see there note appear to the left of the screen where it will be saved.
 
 ## Credits
-none
+This code was refactored from starter code from GitHub user Xandromus. The code was also built by understanding concepts like modular routing and recreating examples from excercises worked through the course.
+
 
 ## License
 This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - see the [MIT License.md](https://opensource.org/licenses/MIT) file for details.
 
 ## Questions
 Github Username: Jorge-Baldovinos
-
-
-## Contributors
-no
 
 ## Tests
 no
