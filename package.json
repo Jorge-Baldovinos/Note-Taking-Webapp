@@ -9,10 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This website [website](https://jorge-baldovinos.github.io/Two-Page-Blog/index.html) serves as a note taker for travelers to check the weather of a city before traveling there.",
   "dependencies": {
     "express": "^4.19.2",
     "util": "^0.12.5",
     "uuid": "^10.0.0"
-  }
+  },
+  "devDependencies": {}
 }
