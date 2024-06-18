@@ -1,18 +1,20 @@
 # Note Taker
 
 ## Description
-This website [website](https://note-taker-ikm1.onrender.com) serves as a note taker for busy individuals that need help managing and organizing their tasks.
+This website [website](https://note-taker-ikm1.onrender.com) serves as a note taker for busy individuals that need help managing and organizing their tasks. The website is made through refactored code from a coding boot camp challenge. 
 
 ## Usage
-![Website Screenshot](assets/Website-Screenshot.png) ![Website Screenshot](assets/Website-Screenshot-1.png) ![Website Screenshot](assets/Website-Screenshot-2.png) ![Website Screenshot](assets/Website-Screenshot-3.png)
-The user is initially greeted with a searchbar requesting the input of a city.
+![Website Screenshot](assets/Website-Screenshot.png) 
+The user is initially greeted with a homescreen containing the title of the website and a blue get started button
 
+![Website Screenshot](assets/Website-Screenshot-1.png) 
+After clicking on the blue get started button, the user will be redirected to the note taking page where they may inert text in the note title or note text sections of the page. 
 
-After clicking on search, the page will render icons and data that shows the current forecast, as well as the forecast for the next 5 days.
+![Website Screenshot](assets/Website-Screenshot-2.png) 
+Once the user has inserted text in the appropriate fields, they will see two new buttons. A save note and clear form button. The user may click on the button at any time to add the note to the page or clear the form they have written.
 
-
-Underneath the search bar, the user will find a list of recent searched cities that the user will be able to click on see the forecast.
-
+![Website Screenshot](assets/Website-Screenshot-3.png)
+After clicking on save not, the user will see there note appear to the left of the screen where it will be saved.
 
 ## Credits
 none
