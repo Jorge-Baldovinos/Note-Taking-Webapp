@@ -14,7 +14,7 @@ After clicking on the blue get started button, the user will be redirected to th
 Once the user has inserted text in the appropriate fields, they will see two new buttons. A save note and clear form button. The user may click on the button at any time to add the note to the page or clear the form they have written.
 
 ![Website Screenshot](assets/Website-Screenshot-3.png)
-After clicking on save not, the user will see there note appear to the left of the screen where it will be saved.
+After clicking on save note, the user will see there note appear to the left of the screen where it will be saved.
 
 ## Credits
 This code was refactored from starter code from GitHub user Xandromus. The code was also built by understanding concepts like modular routing and recreating examples from excercises worked through the course.
