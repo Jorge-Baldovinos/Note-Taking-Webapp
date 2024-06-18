@@ -4,7 +4,7 @@
 This website [website](https://note-taker-ikm1.onrender.com) serves as a note taker for busy individuals that need help managing and organizing their tasks.
 
 ## Usage
-![Website Screenshot](assets/images/Website-Screenshot.png) ![Website Screenshot](assets/images/Website-Screenshot-1.png) ![Website Screenshot](assets/images/Website-Screenshot-2.png) ![Website Screenshot](assets/images/Website-Screenshot-3.png)
+![Website Screenshot](assets/Website-Screenshot.png) ![Website Screenshot](assets/Website-Screenshot-1.png) ![Website Screenshot](assets/Website-Screenshot-2.png) ![Website Screenshot](assets/Website-Screenshot-3.png)
 The user is initially greeted with a searchbar requesting the input of a city.
 
 
