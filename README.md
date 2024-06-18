@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Description
-This website [website](https://jorge-baldovinos.github.io/Two-Page-Blog/index.html) serves as a note taker for travelers to check the weather of a city before traveling there.
+This website [website](https://note-taker-ikm1.onrender.com) serves as a note taker for busy individuals that need help managing and organizing their tasks.
 
 ## Usage
 
