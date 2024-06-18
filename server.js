@@ -8,7 +8,7 @@ const PORT = process.env.port || 3001;
 
 
 // Middleware: I will be serving the static files from a folder called public
-const clog = (req, res, next) => {
+/* const clog = (req, res, next) => {
     const fgCyan = '\x1b[36m';
     switch (req.method) {
       case 'GET': {
@@ -25,7 +25,7 @@ const clog = (req, res, next) => {
   
     next();
   };
-app.use(clog);
+app.use(clog); */
 
 // Middleware: for parsing application/json and urlencoded data
 app.use(express.json());
